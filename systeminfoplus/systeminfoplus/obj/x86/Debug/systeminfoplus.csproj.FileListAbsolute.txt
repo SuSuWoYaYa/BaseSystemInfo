@@ -1,0 +1,11 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\systeminfoplus\systeminfoplus\bin\Debug\systeminfoplus.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\systeminfoplus\systeminfoplus\bin\Debug\systeminfoplus.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\systeminfoplus\systeminfoplus\obj\x86\Debug\systeminfoplus.Form1.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\systeminfoplus\systeminfoplus\obj\x86\Debug\systeminfoplus.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\systeminfoplus\systeminfoplus\obj\x86\Debug\systeminfoplus.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2010\Projects\systeminfoplus\systeminfoplus\obj\x86\Debug\systeminfoplus.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\systeminfoplus\systeminfoplus\obj\x86\Debug\systeminfoplus.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\systeminfoplus\systeminfoplus\bin\Debug\systeminfoplus.exe.manifest
+d:\用户目录\我的文档\visual studio 2010\Projects\systeminfoplus\systeminfoplus\bin\Debug\systeminfoplus.application
+d:\用户目录\我的文档\visual studio 2010\Projects\systeminfoplus\systeminfoplus\obj\x86\Debug\systeminfoplus.exe.manifest
+d:\用户目录\我的文档\visual studio 2010\Projects\systeminfoplus\systeminfoplus\obj\x86\Debug\systeminfoplus.application

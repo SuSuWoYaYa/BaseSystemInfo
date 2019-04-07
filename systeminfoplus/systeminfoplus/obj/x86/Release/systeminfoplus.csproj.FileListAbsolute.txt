@@ -1,0 +1,9 @@
+d:\用户目录\我的文档\Visual Studio 2010\Projects\systeminfoplus\systeminfoplus\bin\Release\systeminfoplus.exe
+d:\用户目录\我的文档\Visual Studio 2010\Projects\systeminfoplus\systeminfoplus\bin\Release\systeminfoplus.pdb
+d:\用户目录\我的文档\Visual Studio 2010\Projects\systeminfoplus\systeminfoplus\obj\x86\Release\systeminfoplus.Form1.resources
+d:\用户目录\我的文档\Visual Studio 2010\Projects\systeminfoplus\systeminfoplus\obj\x86\Release\systeminfoplus.Properties.Resources.resources
+d:\用户目录\我的文档\Visual Studio 2010\Projects\systeminfoplus\systeminfoplus\obj\x86\Release\systeminfoplus.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\Visual Studio 2010\Projects\systeminfoplus\systeminfoplus\obj\x86\Release\systeminfoplus.exe
+d:\用户目录\我的文档\Visual Studio 2010\Projects\systeminfoplus\systeminfoplus\obj\x86\Release\systeminfoplus.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\systeminfoplus\systeminfoplus\bin\Release\DriveInfoEx.dll
+d:\用户目录\我的文档\visual studio 2010\Projects\systeminfoplus\systeminfoplus\obj\x86\Release\systeminfoplus.csprojResolveAssemblyReference.cache
